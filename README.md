@@ -9,12 +9,12 @@
 DevkarthikSuresh/DevkarthikSuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!-- 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://streak-stats.demolab.com/?user=DevkarthikSuresh&theme=dark" alt="GitHub Streak" style="width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevkarthikSuresh&layout=compact&theme=dark" alt="Top Languages" style="width: 45%;" />
 </div>
-
+ -->
 
 
 
