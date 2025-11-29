@@ -1,20 +1,36 @@
 <p align="center">
   <a href="https://github.com/DevkarthikSuresh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20GitHub :);SCIENTIFIC%20COMPUTING%20;ARTIFICIAL%20INTELLIGENCE%20;PYTHON;C%2FC%2B%2B;HTML&font=fira%20Code&center=true&width=440&height=35&color=FFFF00&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20GitHub%20%3A%29;SCIENTIFIC%20COMPUTING;ARTIFICIAL%20INTELLIGENCE;PYTHON;C%2FC%2B%2B;HTML&font=Fira%20Code&center=true&width=440&height=35&color=FFFF00&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 
 
 <!---
 DevkarthikSuresh/DevkarthikSuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://streak-stats.demolab.com/?user=DevkarthikSuresh&theme=dark" alt="GitHub Streak" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevkarthikSuresh&layout=compact&theme=dark" alt="Top Languages" style="width: 45%;" />
-</div>
- -->
+
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com/?user=DevkarthikSuresh&theme=dark" 
+        width="430"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DevkarthikSuresh&layout=compact&theme=dark" 
+        width="430"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
